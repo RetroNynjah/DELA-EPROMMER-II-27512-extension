@@ -1,3 +1,0 @@
-Qty Value                   Device                  Package                 Parts    Description 
-1   1N4148                  DIODE_DO35-10           DO35-10                 D1                   
-2   SWITCH_SLIDE_2POS_2MM   SWITCH_SLIDE_2POS_2MM   SWITCH_SLIDE_2POS_2MM   SW1, SW2             
