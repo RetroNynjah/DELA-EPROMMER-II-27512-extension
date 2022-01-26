@@ -1,4 +1,5 @@
 # DELA-EPROMMER-II 27512 Extension
+<img src="rev1/images/pcb-top.png" alt="PCB" width="600"/>
 
 ## Background 
 This is a reproduction of the 27512 extension board from DELA-Elektronik for the DELA-EPROMMER II for the Commodore 64.  
@@ -14,8 +15,8 @@ A scan of the orginal German user manual for the extension was posted in [this f
 Follow the german user instruction in the docs folder or:
 
 * Remove the diode that is located close to the ZIF socket and the LED. That diode is called D1 on Dirk's reproduction PCB.
-* Connect points A,B,C,D on the extensions to the four corner pins of the ZIF socket on the bottom side of the board.
-* Connect point E on the extension board to where the anode side of the diode was connected. See photos below or the original instruction in the docs folder.
+* Solder points A,B,C,D on the extensions to the four corner pins of the ZIF socket on the bottom side of the board.
+* Wire point E on the extension board to where the anode side of the diode was connected. See photos below or the original instruction in the docs folder.
 
 <img src="rev1/images/eprommer2-top.jpg" alt="top" width="300"/><img src="rev1/images/eprommer2-bottom.jpg" alt="bottom" width="300"/>
 <img src="rev1/images/eprommer2_installation.jpg" alt="installation" width="600"/>
